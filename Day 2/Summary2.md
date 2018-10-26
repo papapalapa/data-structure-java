@@ -26,6 +26,6 @@ This basically compares the current element with the parent node and swaps to sa
 
 ### Heap as an array
 #### Finding a parent node
-If the index of the child node is **n**, then the index of its parent is **(n - 1) / 2**
+If the index of the child node is **n**, then the index of its parent is the floored value of **(n - 1) / 2**
 #### Find children nodes
 If the index of the parent node is **n**, then the index of each child node is **2n + 1** or **2n + 2**
