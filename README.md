@@ -15,6 +15,7 @@ As an aspiring software engineer and an enthusiastic computer scientist, I wante
 Review how hash tables work on a low level.
 #### Resources
 * [Hastables](https://www.youtube.com/watch?v=shs0KM3wKv8&list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt&index=11)
+* [Hashtables - Wikipedia](https://en.wikipedia.org/wiki/Hash_table)
 
 ## Day 2
 #### Goal
