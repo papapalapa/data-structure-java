@@ -25,6 +25,10 @@ Review how hash tables work on a low level.
 Review how heaps work on a low level.
 ### Resources
 * [Heaps](https://www.youtube.com/watch?v=t0Cq6tVNRBA&list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt&index=12)
+* [Introduction to a Heap, Part 1](https://www.youtube.com/watch?v=c1TpLRyQJ4w)
+* [Introduction to a Heap, Part 2](https://www.youtube.com/watch?v=ijfPvX2qYOQ)
+* [Introduction to a Heap, Part 3](https://www.youtube.com/watch?v=fJORlbOGm9Y)
+* [Heaps - Wikipedia](https://en.wikipedia.org/wiki/Heap_(data_structure))
 ### Lesson Learned
 *Write down what you've learned*
 ### Questions
