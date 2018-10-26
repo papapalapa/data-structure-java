@@ -1,17 +1,12 @@
-<<<<<<< HEAD
-# 10 Days Of Computer Science
-As an aspiring software engineer and an enthusiastic computer scientist, I wanted to commit myself to learning Computer Science. However, I haven't been consistent with my time; this is my baby step to learning how to be consistent with self-training. All the resources I used will be open source, and any student (or professional) is free to follow along, copy, change, criticize, or whatever you want to do with this repository.
-=======
 # 10 Days Of Data Structure
 As an aspiring software engineer and an ethusiastic computer scientist, I wanted to commit myself to learning Computer Science. However, I haven't been consistent with my time; this is my baby step to learning how to be consistent with self-training. All the resources I use will be open source, and any student (or prefessional) is free to follow along, copy, change, criticize, or whatever you want to do with this repository.
->>>>>>> 92e55ed978083ce6768e849f6ce3ce4694a00405
 
 ## Rule
 1. Don't spend more than two hours per day. Be consistent and think in the long run.
 2. Find a friend you can discuss about Computer Science. If you cannot find a friend, email me. Although I'm a novice as well, I'll be down to help you.
 3. Be humble and don't be afraid of being wrong.
 4. Go find an authority in Computer Science and ask "dumb" questions.
-5. Tell me about what you've Learned at the end of the tenth day.
+5. Tell me about what you've learned at the end of the tenth day.
 6. Extend this challenge and modify as your own
 7. Help me improve this content.
 
