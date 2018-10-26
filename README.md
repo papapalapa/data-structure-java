@@ -1,5 +1,5 @@
 # 10 Days Of Data Structure
-As an aspiring software engineer and an ethusiastic computer scientist, I wanted to commit myself to learning Computer Science. However, I haven't been consistent with my time; this is my baby step to learning how to be consistent with self-training. All the resources I use will be open source, and any student (or prefessional) is free to follow along, copy, change, criticize, or whatever you want to do with this repository.
+As an aspiring software engineer and an enthusiastic computer scientist, I wanted to commit myself to learning Computer Science. However, I haven't been consistent with my time; this is my baby step to learning how to be consistent with self-training. All the resources I use will be open source, and any student (or professional) is free to follow along, copy, change, criticize, or whatever you want to do with this repository.
 
 ## Rule
 1. Don't spend more than two hours per day. Be consistent and think in the long run.

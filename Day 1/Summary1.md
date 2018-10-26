@@ -2,9 +2,9 @@
 ---
 # Day 1 : Data Structure
 
-## Hashtable
+## Hash table
 
-Hashtable is key - value look up. It allows you to associate a value with a key and gives you the advantage of retrieving the value you want with more readable index.
+Hash table is key - value look up. It allows you to associate a value with a key and gives you the advantage of retrieving the value you want with more readable index.
 
 For example:
 > "lastName" => "Lee"
@@ -22,32 +22,32 @@ The key can be used to search an object as well:
 >
 > "Bricken" => new Person( id: 1, age:1, salary:1, experience:1 )
 
-Getting the desired object and retrieving some values of object has never been easier with hashtable:
+Getting the desired object and retrieving some values of object has never been easier with hash tables:
 
 `hashtable.get("Lee")`
 
 
 One caveat you have to note is that you usually don't use a string value as an index of the array.
 
-You would have to **convert** the string value into a **hashcode** using a hash function and **map** the hashcode to the index.
+You would have to **convert** the string value into a **hash code** using a hash function and **map** the hash code to the index.
 
-`string -> hashcode -> index`
+`string -> hash code -> index`
 
 
-During this process, since we are mapping the two hashcodes into a smaller number, two things with different hashcodes might be mapped to the same index since there are a finite number of hashcodes but an infinite number of string values.
+During this process, since we are mapping the two hash codes into a smaller number, two things with different hash codes might be mapped to the same index since there are a finite number of hash codes but an infinite number of string values.
 
 What do I do now?
 
 ### Collision
-Collision is when you have two hashcodes mapped to the same index.
+Collision is when you have two hash codes mapped to the same index.
 
-There are multiple ways to prevent this disaster from happening. One way is to chain the elements and make the hashtable an array of linked list.
+There are multiple ways to prevent this disaster from happening. One way is to chain the elements and make the hash table an array of linked list.
 
 You can find more information [here](https://en.wikipedia.org/wiki/Hash_table#Collision_resolution)
 
 ### Runtime
-* O(1) for a "good" hashtable
-* O(n) for a terrible hashtable
+* O(1) for a "good" hash table
+* O(n) for a terrible hash table
 
 ## Heap (Priority Queue)
 ### Min Heap
