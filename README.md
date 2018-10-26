@@ -11,19 +11,15 @@ As an aspiring software engineer and an enthusiastic computer scientist, I wante
 7. Help me improve this content.
 
 ## Day 1
-### Goal
+#### Goal
 Review how hash tables work on a low level.
-### Resources
+#### Resources
 * [Hastables](https://www.youtube.com/watch?v=shs0KM3wKv8&list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt&index=11)
-### Lesson Learned
-*Write down what you've learned*
-### Questions
-*Write down any questions you had and try to answer them on your own*
 
 ## Day 2
-### Goal
+#### Goal
 Review how heaps work on a low level.
-### Resources
+#### Resources
 * [Heaps](https://www.youtube.com/watch?v=t0Cq6tVNRBA&list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt&index=12)
 * [Introduction to a Heap, Part 1](https://www.youtube.com/watch?v=c1TpLRyQJ4w)
 * [Introduction to a Heap, Part 2](https://www.youtube.com/watch?v=ijfPvX2qYOQ)
@@ -31,47 +27,47 @@ Review how heaps work on a low level.
 * [Heaps - Wikipedia](https://en.wikipedia.org/wiki/Heap_(data_structure))
 
 ## Day 3
-### Goal
+#### Goal
 Review how linked lists work on a low level.
-### Resources
+#### Resources
 * [Linked List](https://www.youtube.com/watch?v=njTh_OwMljA&list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt&index=13)
 
 ## Day 4
-### Goal
+#### Goal
 Review how stacks and queues work on a low level.
-### Resources
+#### Resources
 * [Stacks and Queues](https://www.youtube.com/watch?v=wjI1WNcIntg&list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt&index=14)
 
 ## Day 5
-### Goal
+#### Goal
 Review how trees work on a low level.
-### Resources
+#### Resources
 * [Trees](https://www.youtube.com/watch?v=oSWTXtMglKE&list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt&index=15)
 * [Trees - Wikipedia](https://en.wikipedia.org/wiki/Tree_(data_structure))
 
 ## Day 6
-### Goal
+#### Goal
 Review how tries (digital tree) works on a low level.
-### Resources
+#### Resources
 * [Tries](https://www.youtube.com/watch?v=zIjfhVPRZCg&list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt&index=16)
 * [Trie - Wikipedia](https://en.wikipedia.org/wiki/Trie)
 
 ## Day 7
-### Goal
+#### Goal
 Code the hash table and heaps algorithm in Python or Java
-### Resources
+#### Resources
 
 ## Day 8
-### Goal
+#### Goal
 Code the linked list, stacks, and queues algorithm in Python or Java
-### Resources
+#### Resources
 
 ## Day 9
-### Goal
+#### Goal
 Code the trees and tries algorithm in Python or Java
-### Resources
+#### Resources
 
 ## Day 10
-### Goal
+#### Goal
 Review all the lessons and complete all the exercises
-### Resources
+#### Resources
