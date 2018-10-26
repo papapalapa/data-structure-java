@@ -16,7 +16,8 @@ Review how hash tables work on a low level.
 #### Resources
 * [Hastables](https://www.youtube.com/watch?v=shs0KM3wKv8&list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt&index=11)
 * [Hashtables - Wikipedia](https://en.wikipedia.org/wiki/Hash_table)
-
+* [Intro to Hashtable](https://www.youtube.com/watch?v=MfhjkfocRR0)
+* [Hash Tables and Hash Functions](https://www.youtube.com/watch?v=KyUTuwz_b7Q)
 ## Day 2
 #### Goal
 Review how heaps work on a low level.
