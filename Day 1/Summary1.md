@@ -7,20 +7,20 @@
 Hashtable is key - value look up. It allows you to associate a value with a key and gives you the advantage of retrieving the value you want with more readable index.
 
 For example:
-> "lastName" $\implies$ "Lee"
+> "lastName" => "Lee"
 >
-> "firstName" $\implies$ "Janghoon"
+> "firstName" => "Janghoon"
 >
-> "age" $\implies$ "19"
+> "age" => "19"
 
 The key can be used to search an object as well:
-> "Lee" $\implies$ new Person( id: 69, age:19, salary:0, experience:3 )
+> "Lee" => new Person( id: 69, age:19, salary:0, experience:3 )
 >
-> "Tran" $\implies$ new Person( id: 696, age:19, salary:100000, experience:69 )
+> "Tran" => new Person( id: 696, age:19, salary:100000, experience:69 )
 >
-> "Wu" $\implies$ new Person( id: 2000, age:7, salary:2000, experience:96 )
+> "Wu" => new Person( id: 2000, age:7, salary:2000, experience:96 )
 >
-> "Bricken" $\implies$ new Person( id: 1, age:1, salary:1, experience:1 )
+> "Bricken" => new Person( id: 1, age:1, salary:1, experience:1 )
 
 Getting the desired object and retrieving some values of object has never been easier with hashtable:
 
