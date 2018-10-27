@@ -33,6 +33,9 @@ Review how heaps work on a low level.
 Review how linked lists work on a low level.
 #### Resources
 * [Linked List](https://www.youtube.com/watch?v=njTh_OwMljA&list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt&index=13)
+* [Linked List - Carnegie Mellon University](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/linked%20lists.html)
+* [Linked List - Wikipedia](https://en.wikipedia.org/wiki/Linked_list)
+* [Linked List Data Structure - Geeks for Geeks](https://www.geeksforgeeks.org/data-structures/linked-list/)
 
 ## Day 4
 #### Goal
