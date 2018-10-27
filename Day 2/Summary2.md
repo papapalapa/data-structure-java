@@ -1,3 +1,7 @@
+*This is my personal note*
+---
+# Day 2 : Data Structure
+
 ## Heap (Priority Queue)
 ### Min Heap
 Elements are all smaller than their children.
