@@ -42,6 +42,8 @@ Review how linked lists work on a low level.
 Review how stacks and queues work on a low level.
 #### Resources
 * [Stacks and Queues](https://www.youtube.com/watch?v=wjI1WNcIntg&list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt&index=14)
+* [Stack](https://www.youtube.com/watch?v=FNZ5o9S9prU)
+* [Stacks and Queue - Carnegie Mellon University](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Stacks%20and%20Queues/Stacks%20and%20Queues.html)
 
 ## Day 5
 #### Goal
